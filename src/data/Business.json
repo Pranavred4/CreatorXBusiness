@@ -1,0 +1,12 @@
+[
+    { "id": 1,  "Name": "Google" },
+    { "id": 2, "Name": "Microsoft" },
+    { "id": 3,  "Name": "Apple" },
+    { "id": 4,  "Name": "NVIDIA" },
+    { "id": 5,  "Name": "Samsung" },
+    { "id": 6,  "Name": null },
+    { "id": 7,  "Name": "Hershey" },
+    { "id": 8,  "Name": "Nike" },
+    { "id": 9,  "Name": "Puma" }
+  ]
+  
